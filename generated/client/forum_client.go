@@ -11,7 +11,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	"github.com/bozaro/tech-db-forum/generated/client/operations"
+	"github.com/supreme2302/tech-db-forum/generated/client/operations"
 )
 
 // Default forum HTTP client.

@@ -3,8 +3,8 @@ package tests
 import (
 	"bytes"
 	"fmt"
-	"github.com/bozaro/tech-db-forum/generated/client"
-	"github.com/bozaro/tech-db-forum/generated/models"
+	"github.com/supreme2302/tech-db-forum/generated/client"
+	"github.com/supreme2302/tech-db-forum/generated/models"
 	"github.com/go-openapi/strfmt"
 	"io"
 	"io/ioutil"

@@ -6,7 +6,7 @@ package main
 import (
 	"compress/gzip"
 	"fmt"
-	"github.com/bozaro/tech-db-forum/tests"
+	"github.com/supreme2302/tech-db-forum/tests"
 	"github.com/mkideal/cli"
 	"github.com/op/go-logging"
 	"io"
@@ -68,7 +68,7 @@ type CmdCommonT struct {
 }
 
 var root = &cli.Command{
-	Desc: "https://github.com/bozaro/tech-db-forum",
+	Desc: "https://github.com/supreme2302/tech-db-forum",
 	Argv: func() interface{} { return nil },
 	Fn: func(ctx *cli.Context) error {
 		ctx.WriteUsage()

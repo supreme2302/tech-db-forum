@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/aryann/difflib"
-	"github.com/bozaro/tech-db-forum/generated/models"
+	"github.com/supreme2302/tech-db-forum/generated/models"
 	"github.com/go-openapi/swag"
 	"golang.org/x/net/context"
 	"io/ioutil"

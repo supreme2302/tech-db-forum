@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/bozaro/tech-db-forum/generated/models"
+	models "github.com/supreme2302/tech-db-forum/generated/models"
 )
 
 // ForumCreateReader is a Reader for the ForumCreate structure.

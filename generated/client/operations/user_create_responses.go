@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/bozaro/tech-db-forum/generated/models"
+	models "github.com/supreme2302/tech-db-forum/generated/models"
 )
 
 // UserCreateReader is a Reader for the UserCreate structure.
