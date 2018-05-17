@@ -6,7 +6,7 @@ package main
 import (
 	"compress/gzip"
 	"fmt"
-	"github.com/bozaro/tech-db-forum/tests"
+	"github.com/supreme2302/tech-db-forum/tests"
 	"github.com/mkideal/cli"
 	"github.com/op/go-logging"
 	"io"
